@@ -1,0 +1,16 @@
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+F:\DIO\NetFundamentals\transferenciasBancarias\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
